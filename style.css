@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+}
+
+h1, h2, h3 {
+    color: white;
+    font-family: "Segoe UI", Verdana, sans-serif;
+}
+
+p {
+    color: white;
+    font-family: "Segoe UI", Verdana, sans-serif;
+    font-size: 16px;
+}
+
+header {
+    text-align: center;
+    background-image: url("/pictures/MicrosoftTeams-image.jpeg");
+    font-size: 100px;
+}
+
+.orange {
+    background-color: #ef8354;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.green {
+    background-color: #0e7c7b;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.purple {
+    background-color: #9c538b;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.link {
+    color: #ef8354;
+}
+
+.link:hover {
+    color: #9c528b;
+}
